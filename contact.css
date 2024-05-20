@@ -1,0 +1,13 @@
+h1 {
+    color: cadetblue;
+    font-family: Jaro;
+}
+p {
+    color: cadetblue;
+    font-family: JAro;
+    font-weight: 100;
+    font-size: larger;
+}
+* {
+    text-align: center;
+}
